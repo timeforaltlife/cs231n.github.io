@@ -2,11 +2,6 @@
 Notes and assignments for Stanford CS class [CS231n: Convolutional Neural Networks for Visual Recognition](http://vision.stanford.edu/teaching/cs231n/)
 
 --- My copy of Schedule page, to know what sequence to read these markdown files etc in ---
-# CS231n: Deep Learning for Computer Vision - Study Map
-
-This repository contains my personal study notes and progress tracking for Stanford's CS231n course. The sequence follows the structural roadmap of the official course schedule, linking directly to the Markdown notes within this repository alongside external primary papers, blogs, and review sessions.
-
----
 
 # CS231n: Deep Learning for Computer Vision - Study Map
 
